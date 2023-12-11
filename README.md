@@ -1,1 +1,2 @@
-- [Day 5](./day_5//data_types.md)
+- [Day 5 - Data Types](./day_5/data_types.md)
+- [Day 6 - Data Types Cont ](./day_6/data_type_cont.md)
