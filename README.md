@@ -4,3 +4,5 @@
 - [Day 8 - Conditional Statements](./day_8/day_8.md)
 - [Day 9 - Looping](./day_9/day_9.md)
 - [Day 10 - Functions](./day_10/functions.md)
+- [Day 11 - Functions Cont](./day_11/function_continue.md)
+- [Day 12 - Classes](./day_12/classes.md)
