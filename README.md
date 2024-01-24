@@ -6,3 +6,7 @@
 - [Day 10 - Functions](./day_10/functions.md)
 - [Day 11 - Functions Cont](./day_11/function_continue.md)
 - [Day 12 - Classes](./day_12/classes.md)
+- [Day 13 - Classes Cont](./day_13/classes_cont.md)
+- [Day 14 - Dunder methods](./day_14/dunder.md)
+- [Day 15 - Modules](./day_15/modules.md)
+- [Day 15 - Abstract Classes](./day_15_abstraction/abstraction.md)
